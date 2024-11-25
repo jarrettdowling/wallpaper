@@ -8,7 +8,7 @@ Clone the directory from your home directory.
 
 ```
 cd
-git clone --depth=1 https://github.com/mylinuxforwork/wallpaper.git
+git clone --depth=1 https://github.com/jarrettdowling/wallpaper.git
 cd wallpaper/
 ```
 
